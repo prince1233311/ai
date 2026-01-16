@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "Copy of CrocSthepen AI",
+  "description": "Premium AI Experience with Drawing, Code, and Voice Studio"
+}
